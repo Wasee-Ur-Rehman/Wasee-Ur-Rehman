@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/" alt="GIF Image" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Wasee-Ur-Rehman</h1>
 <h3 align="center">Driven Software Engineer, always up for a challenge and a good cup of coffee.</h3>
 
