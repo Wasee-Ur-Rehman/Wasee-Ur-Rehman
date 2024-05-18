@@ -1,7 +1,5 @@
 <div align="center">
-    <img src="preview_image_or_gif_url" alt="Animation Preview" width="600" height="400">
-    <br>
-    <a href="https://lottie.host/embed/f40c39ef-b587-4178-a777-898b71ec5e8b/7TD5kyRyXB.json">Click here to view the animation</a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZvazNrM202Znp3ZnR3YTlnZHZveW5lZHNkYnV5bGZ0eTVzc3M3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="1600" height="700" alt="Coding GIF">
 </div>
 
 </div>
