@@ -1,6 +1,7 @@
-<p align="center">
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
-</p>
+<div align="center">
+  <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+</div>
 
 <h1 align="center">Hi 👋, I'm Wasee-Ur-Rehman</h1>
 <h3 align="center">Driven Software Engineer, always up for a challenge and a good cup of coffee.</h3>
