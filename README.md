@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZvazNrM202Znp3ZnR3YTlnZHZveW5lZHNkYnV5bGZ0eTVzc3M3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding GIF">
 </div>
-
 <h1 align="center">Hi 👋, I'm Wasee-Ur-Rehman</h1>
 <h3 align="center">Driven Software Engineer, always up for a challenge and a good cup of coffee.</h3>
 
