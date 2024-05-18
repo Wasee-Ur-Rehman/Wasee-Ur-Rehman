@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZvazNrM202Znp3ZnR3YTlnZHZveW5lZHNkYnV5bGZ0eTVzc3M3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="1600" height="700 alt="Coding GIF">
+    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
+    <dotlottie-player src="https://lottie.host/f40c39ef-b587-4178-a777-898b71ec5e8b/7TD5kyRyXB.json" background="transparent" speed="1" style="width: 600px; height: 400px;" loop autoplay></dotlottie-player>
 </div>
+
 </div>
 <h1 align="center">Hi 👋, I'm Wasee-Ur-Rehman</h1>
 <h3 align="center">Driven Software Engineer, always up for a challenge and a good cup of coffee.</h3>
