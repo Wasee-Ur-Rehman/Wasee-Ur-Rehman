@@ -20,5 +20,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasee-ur-rehman&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasee-ur-rehman&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact&width=1600&height=700)
-
