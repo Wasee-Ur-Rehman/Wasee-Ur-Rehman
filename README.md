@@ -1,6 +1,7 @@
 <div align="center">
-    <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>
-    <dotlottie-player src="https://lottie.host/f40c39ef-b587-4178-a777-898b71ec5e8b/7TD5kyRyXB.json" background="transparent" speed="1" style="width: 600px; height: 400px;" loop autoplay></dotlottie-player>
+    <img src="preview_image_or_gif_url" alt="Animation Preview" width="600" height="400">
+    <br>
+    <a href="https://lottie.host/embed/f40c39ef-b587-4178-a777-898b71ec5e8b/7TD5kyRyXB.json">Click here to view the animation</a>
 </div>
 
 </div>
