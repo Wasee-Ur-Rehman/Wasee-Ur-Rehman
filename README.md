@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Wasee-Ur-Rehman</h1>
 <h3 align="center">Driven Software Engineer, always up for a challenge and a good cup of coffee.</h3>
 
-- 🌱 I’m currently learning *React Js and Machine learning.*
+- 🌱 I’m currently learning *React Js and Data Science.*
 
 - 📫 How to reach me *waseeurrehmanch@gmail.com*
 
