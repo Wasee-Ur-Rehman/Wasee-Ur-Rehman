@@ -64,8 +64,8 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 - 📚 Expanding my expertise in **LLMs, RAG and Agentic Workflows**
 
 ### Projects and Portfolio
-- 🌐 Explore my work at [https://wasee.tech/Projects](https://www.wasee.tech/#projects)
-- 💼 Discover my portfolio at [https://wasee.tech](https://www.wasee.tech/)
+- 🌐 **Projects:** Check out my work at **[wasee.tech/projects](https://www.wasee.tech/#projects)**
+- 💼 **Portfolio:** View my complete portfolio at **[wasee.tech](https://www.wasee.tech/)**
 
 ### Technical Skills
 - 💻 **Languages:** Java, JavaScript/TypeScript, SQL, C++, HTML/CSS  
