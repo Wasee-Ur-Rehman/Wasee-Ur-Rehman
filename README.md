@@ -118,7 +118,6 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wasee-Ur-Rehman&theme=radical" alt="wasee's gitHub contribution"/>
   </a>
 </p>
-<br>
 <!-- Hot Projects -->
 <h2 align="center">Hot Projects:</h2>
 <p align="center">
@@ -139,3 +138,14 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
   </a>
 
 </p>
+
+<h2 align="center">Career Timeline:</h2>
+
+| Company | Role | Duration | Key Contributions & Technologies |
+| :--- | :--- | :--- | :--- |
+| **Devsinc** <br> | **Junior Software Engineer** | `Nov 2026 – Present` | Creating Lead Managment Systems and Full-Stack features for international clients. <br><br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Datics AI** <br> | **Technical Trainee Officer** <br> | `Sep 2025 – Nov 2025` | Contributed to a CRM system by building REST APIs and collaborating on UI components. <br><br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **FAST NUCES** <br> | **Web Programming TA** | `Aug 2025 – Present` | Mentored students on the MERN stack. Conducted workshops on Git, AJAX, and modern web development practices. <br><br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![MERN](https://img.shields.io/badge/MERN-333333?style=for-the-badge&logo=mongodb&logoColor=47A248) |
+| **EntropyandCo** <br> | **AI & Backend Intern** | `Jun 2025 – Aug 2025` | Built AI automation workflows using n8n and integrated APIs with Django/FastAPI backends. <br><br> ![n8n](https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **FAST NUCES** <br>| **Database Systems TA** | `Aug 2024 – Sep 2025` | Guided 50+ students in DBMS concepts, SQL query optimization, and database design. Graded labs and assignments. <br><br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![ERD](https://img.shields.io/badge/ERD-8B0000?style=for-the-badge&logo=drawdotio&logoColor=white) ![Normalization](https://img.shields.io/badge/Normalization-0052CC?style=for-the-badge&logo=databricks&logoColor=white) |
+| **Ultra Codes** <br> | **SQA Engineer Intern** | `Jul 2024 – Sep 2024` | Performed manual and automated testing. Identified, documented, and tracked bugs using Jira. <br><br> ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) |
