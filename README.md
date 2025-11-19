@@ -104,7 +104,6 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 </p>
 
 <!-- Socials -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/wasee-ur-rehman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasee-ur-rehman ch" height="30" width="40" /></a>
@@ -119,25 +118,24 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wasee-Ur-Rehman&theme=radical" alt="wasee's gitHub contribution"/>
   </a>
 </p>
-
+<br>
 <!-- Hot Projects -->
-### 🔥 Hot Projects
-
+<h2 align="center">Hot Projects:</h2>
 <p align="center">
 
-  <!-- Project 1 -->
+  <!-- Project 1: DarziXpress (React Web App) -->
   <a href="https://github.com/Wasee-Ur-Rehman/DarziXpress">
-    <img src="https://img.shields.io/badge/🚀_AI_Chatbot-FYP-blue?style=for-the-badge&logo=github" alt="AI Chatbot FYP">
+    <img src="https://img.shields.io/badge/DarziXpress-React-blue?style=for-the-badge&logo=react&logoColor=61DAFB" alt="DarziXpress - React Web App">
   </a>
 
-  <!-- Project 2 -->
+  <!-- Project 2: Hadith Enlightenment (Chrome Extension) -->
   <a href="https://github.com/Wasee-Ur-Rehman/Hadith-Enlightenment-Extension">
-    <img src="https://img.shields.io/badge/🧠_Daily_Preaching_Extension-Chrome-red?style=for-the-badge&logo=google-chrome" alt="Chrome Extension">
+    <img src="https://img.shields.io/badge/Hadith_Enlightenment-Chrome-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Hadith Enlightenment Chrome Extension">
   </a>
 
-  <!-- Project 3 -->
+  <!-- Project 3: Ticket Management System (React Web App) -->
   <a href="https://github.com/Wasee-Ur-Rehman/Ticket-Management-System-Linotix-">
-    <img src="https://img.shields.io/badge/📊_Upwork_Scraper-GSheets-green?style=for-the-badge&logo=python" alt="Upwork Scraper">
+    <img src="https://img.shields.io/badge/Ticket_Management-React-blue?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Ticket Management System - React Web App">
   </a>
 
 </p>
