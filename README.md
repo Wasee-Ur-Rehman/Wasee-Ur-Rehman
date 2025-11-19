@@ -117,12 +117,9 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 </p>
 <br>
 
-
- -->
-
 <p align="center">
-  <a href="https://github.com/avcton">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avcton&theme=radical" alt="avcton's gitHub contribution"/>
+  <a href="https://github.com/Wasee-Ur-Rehman">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wasee-Ur-Rehman&theme=radical" alt="wasee's gitHub contribution"/>
   </a>
 </p>
 
