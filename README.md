@@ -1,10 +1,6 @@
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasee-ur-rehman&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <!-- Profile Visits -->
 
-<a href="https://komarev.com/ghpvc/?username=avcton">
+<a href="https://komarev.com/ghpvc/?username=Wasee-Ur-Rehman">
   <img align="right" src="https://komarev.com/ghpvc/?username=Wasee-Ur-Rehman&label=Visitors&color=0e75b6&style=flat" alt="Profile Visitors" />
 </a>
 
@@ -13,7 +9,7 @@
 <h2 align="center">
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,
-  I'm Wasee-Ur-Rehman
+  I'm Wasee-Ur-Rehman Ch
 </h2>
 
 <!-- Intro Confetti -->
@@ -108,6 +104,7 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 </p>
 
 <!-- Socials -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/wasee-ur-rehman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasee-ur-rehman ch" height="30" width="40" /></a>
@@ -115,11 +112,72 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Email - Wasee Ur Rehman" height="30" width="40" />
   </a>
 </p>
-<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <a href="https://github.com/Wasee-Ur-Rehman">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wasee-Ur-Rehman&theme=radical" alt="wasee's gitHub contribution"/>
   </a>
 </p>
+
+<!-- Hot Projects -->
+<h2 align="center">🔥 Hot Projects</h2>
+
+<div align="center">
+
+  <!-- Project 1 -->
+  <a href="https://github.com/Wasee-Ur-Rehman/<YOUR_PROJECT_1>" target="_blank">
+    <button style="
+      font-family:'IBM Plex Mono', monospace;
+      font-size:14px;
+      padding:10px 18px;
+      border-radius:8px;
+      border:1px solid #333;
+      background:#0d1117;
+      color:#fff;
+      cursor:pointer;
+      margin:5px;
+    ">
+      🚀 Project Name 1
+    </button>
+  </a>
+
+  <!-- Project 2 -->
+  <a href="https://github.com/Wasee-Ur-Rehman/<YOUR_PROJECT_2>" target="_blank">
+    <button style="
+      font-family:'IBM Plex Mono', monospace;
+      font-size:14px;
+      padding:10px 18px;
+      border-radius:8px;
+      border:1px solid #333;
+      background:#0d1117;
+      color:#fff;
+      cursor:pointer;
+      margin:5px;
+    ">
+      🤖 Project Name 2
+    </button>
+  </a>
+
+  <!-- Project 3 -->
+  <a href="https://github.com/Wasee-Ur-Rehman/<YOUR_PROJECT_3>" target="_blank">
+    <button style="
+      font-family:'IBM Plex Mono', monospace;
+      font-size:14px;
+      padding:10px 18px;
+      border-radius:8px;
+      border:1px solid #333;
+      background:#0d1117;
+      color:#fff;
+      cursor:pointer;
+      margin:5px;
+    ">
+      📦 Project Name 3
+    </button>
+  </a>
+
+</div>
+
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+
 
