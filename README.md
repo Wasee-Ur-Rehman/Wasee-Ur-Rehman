@@ -121,63 +121,23 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 </p>
 
 <!-- Hot Projects -->
-<h2 align="center">🔥 Hot Projects</h2>
+### 🔥 Hot Projects
 
-<div align="center">
+<p align="center">
 
   <!-- Project 1 -->
-  <a href="https://github.com/Wasee-Ur-Rehman/<YOUR_PROJECT_1>" target="_blank">
-    <button style="
-      font-family:'IBM Plex Mono', monospace;
-      font-size:14px;
-      padding:10px 18px;
-      border-radius:8px;
-      border:1px solid #333;
-      background:#0d1117;
-      color:#fff;
-      cursor:pointer;
-      margin:5px;
-    ">
-      🚀 Project Name 1
-    </button>
+  <a href="https://github.com/Wasee-Ur-Rehman/DarziXpress">
+    <img src="https://img.shields.io/badge/🚀_AI_Chatbot-FYP-blue?style=for-the-badge&logo=github" alt="AI Chatbot FYP">
   </a>
 
   <!-- Project 2 -->
-  <a href="https://github.com/Wasee-Ur-Rehman/<YOUR_PROJECT_2>" target="_blank">
-    <button style="
-      font-family:'IBM Plex Mono', monospace;
-      font-size:14px;
-      padding:10px 18px;
-      border-radius:8px;
-      border:1px solid #333;
-      background:#0d1117;
-      color:#fff;
-      cursor:pointer;
-      margin:5px;
-    ">
-      🤖 Project Name 2
-    </button>
+  <a href="https://github.com/Wasee-Ur-Rehman/Hadith-Enlightenment-Extension">
+    <img src="https://img.shields.io/badge/🧠_Daily_Preaching_Extension-Chrome-red?style=for-the-badge&logo=google-chrome" alt="Chrome Extension">
   </a>
 
   <!-- Project 3 -->
-  <a href="https://github.com/Wasee-Ur-Rehman/<YOUR_PROJECT_3>" target="_blank">
-    <button style="
-      font-family:'IBM Plex Mono', monospace;
-      font-size:14px;
-      padding:10px 18px;
-      border-radius:8px;
-      border:1px solid #333;
-      background:#0d1117;
-      color:#fff;
-      cursor:pointer;
-      margin:5px;
-    ">
-      📦 Project Name 3
-    </button>
+  <a href="https://github.com/Wasee-Ur-Rehman/Ticket-Management-System-Linotix-">
+    <img src="https://img.shields.io/badge/📊_Upwork_Scraper-GSheets-green?style=for-the-badge&logo=python" alt="Upwork Scraper">
   </a>
 
-</div>
-
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
-
-
+</p>
