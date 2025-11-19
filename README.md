@@ -1,12 +1,3 @@
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZvazNrM202Znp3ZnR3YTlnZHZveW5lZHNkYnV5bGZ0eTVzc3M3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="auto" style="max-height: 200px;" alt="Coding GIF">
-</div>
-
-</div>
-<h1 align="center">Hi 👋, I'm Wasee-Ur-Rehman</h1>
-<h3 align="center">Driven Software Engineer, always up for a challenge and a good cup of coffee.</h3>
-
-- 🌱 I’m currently learning *React Js and Data Science.*
 
 - 📫 How to reach me *waseeurrehmanch@gmail.com*
 
@@ -86,7 +77,7 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 - 📚 Expanding my expertise in **LLMs, RAG and Agentic Workflows**
 
 ### Projects and Portfolio
-- 🌐 Explore my work at [https://avcton.github.io/Projects/](https://www.wasee.tech/#projects)
+- 🌐 Explore my work at [https://wasee.tech/Projects/](https://www.wasee.tech/#projects)
 - 💼 Discover my portfolio at [https://wasee.tech](https://www.wasee.tech/)
 
 ### Technical Skills
@@ -126,13 +117,12 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 </p>
 
 <!-- Socials -->
-
-<h2 align="center">Connect Through</h2>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/avcton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avcton" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avcton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avcton" height="30" width="40" /></a>
-<a href="https://instagram.com/i__m.ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i__m.ahmad" height="30" width="40" /></a>
-<a href="https://avcton.github.io/sitemap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://avcton.github.io/sitemap" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wasee-ur-rehman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasee-ur-rehman ch" height="30" width="40" /></a>
+  <a href="mailto:waseeurrehman6@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email - Wasee Ur Rehman" height="30" width="40" />
+  </a>
 </p>
 <br>
 
