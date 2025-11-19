@@ -107,7 +107,7 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/wasee-ur-rehman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wasee-ur-rehman ch" height="30" width="40" /></a>
-  <a href="mailto:waseeurrehman6@gmail.com" target="_blank">
+  <a href="mailto:waseeurrehmanch@gmail.com" target="_blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Email - Wasee Ur Rehman" height="30" width="40" />
   </a>
 </p>
