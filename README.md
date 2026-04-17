@@ -30,7 +30,8 @@
 to apply my problem-solving skills to implement robust, data-driven solutions in a hands-on technical role.
 </p>
 
-### Work and Learning
+
+## Work and Learning
 - 🚀 Currently working at **Devsinc** as a **Junior Software Engineer**.
 - 🎓 Actively working on my **Final Year Project (FYP)** focused on a **Conversational AI Chatbot for Rural Communities**
 - 📚 Expanding my expertise in **LLMs, RAG and Agentic Workflows**
