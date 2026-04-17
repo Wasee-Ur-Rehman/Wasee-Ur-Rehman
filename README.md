@@ -29,9 +29,9 @@
  A detail-oriented Software Engineering student, with expertise in full-stack development and AI engineering. I am eager
 to apply my problem-solving skills to implement robust, data-driven solutions in a hands-on technical role.
 </p>
+<br>
 
-
-## Work and Learning
+### Work and Learning
 - 🚀 Currently working at **Devsinc** as a **Junior Software Engineer**.
 - 🎓 Actively working on my **Final Year Project (FYP)** focused on a **Conversational AI Chatbot for Rural Communities**
 - 📚 Expanding my expertise in **LLMs, RAG and Agentic Workflows**
