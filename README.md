@@ -31,27 +31,25 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 </p>
 
 <!-- Techstack Highlights -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" hspace="6" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" hspace="6" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" hspace="6" />
+</p>
 
 <br>
 
