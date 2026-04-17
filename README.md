@@ -30,31 +30,6 @@
 to apply my problem-solving skills to implement robust, data-driven solutions in a hands-on technical role.
 </p>
 
-<!-- Techstack Highlights -->
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" hspace="6" />
-</p>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" hspace="6" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50" height="50" hspace="6" />
-</p>
-
-<br>
-
-<!-- Current Status -->
-
 ### Work and Learning
 - 🚀 Currently working at **Devsinc** as a **Junior Software Engineer**.
 - 🎓 Actively working on my **Final Year Project (FYP)** focused on a **Conversational AI Chatbot for Rural Communities**
