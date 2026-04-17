@@ -31,8 +31,7 @@ to apply my problem-solving skills to implement robust, data-driven solutions in
 </p>
 
 <!-- Techstack Highlights -->
-
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
